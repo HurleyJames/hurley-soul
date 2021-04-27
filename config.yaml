@@ -23,7 +23,7 @@ params:
     - post
   featuredImageField: image
   rssFullContent: true
-  favicon: img/favicon.png
+  favicon: https://i.loli.net/2021/04/27/OBt26qlLEQIijJn.png
 
   footer:
     since: 2018
