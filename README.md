@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://soul.withh.life/">
+  <a href="https://soul.hurleywong.com/">
     <h2 align="center">Hurley's Soul</h2>
   </a>
 </p>
