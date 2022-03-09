@@ -26,6 +26,6 @@ I'm Hurley Huang!
 ### 📥 Contacts
 
 * 📫 Email me at: [hurleyhuang@outlook.com](hurleyhuang@hotmail.com) (Preferred)
-* 📨 Contact me via: [Getform](https://withh.life/contact) in my Homepage
+* 📨 Contact me via: [Getform](https://hurleywong.com/contact) in my Homepage
 * 🇬🇧 Catch me: University of Leeds, Leeds, UK
 
