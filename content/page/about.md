@@ -1,6 +1,6 @@
 ---
-title: About
-description: About me
+title: About me
+description:
 date: '2019-02-28'
 aliases:
   - about-me
@@ -20,12 +20,10 @@ I'm Hurley Huang!
 ### 🛠 Programming
 
 * 🎓 Fresh graduated master at 🇬🇧 [the University of Leeds](https://www.leeds.ac.uk/), [*MSc in Advanced Computing Science (Artificial Intelligence)*](https://courses.leeds.ac.uk/i537/advanced-computer-science-artificial-intelligence-msc).
-* 🔭 Fields of interest: 🤓 Mobile Dev / 😏 Front-end Dev / 🧐 Back-end Dev / 😅 ML.
-* 🎯 Target: Full-Stack Engineer / Distributed Engineer / AI User.
+* 🔭 Fields of interest: 🤓 Mobile Dev / 😏 Data Dev / 🧐 Front|Back-end Dev / 😅 ML.
 
 ### 📥 Contacts
 
 * 📫 Email me at: [hurleyhuang@outlook.com](hurleyhuang@hotmail.com) (Preferred)
-* 📨 Contact me via: [Getform](https://hurleywong.com/contact) in my Homepage
 * 🇬🇧 Catch me: University of Leeds, Leeds, UK
 
